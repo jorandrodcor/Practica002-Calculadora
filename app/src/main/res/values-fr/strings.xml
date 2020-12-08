@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practique002 Calculatrice du munde</string>
+    <string name = "sum">Somme</string>
+    <string name = "res">Soustraction</string>
+    <string name = "mul">Multiplication</string>
+    <string name = "div">Division</string>
+    <string name = "cal">Calculer</string>
+    <string name = "sal">Resultat:</string>
+    <string name = "pis">Entrez un nombre</string>
+</resources>

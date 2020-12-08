@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice002 World calculator</string>
+    <string name = "sum">Sum</string>
+    <string name = "res">Subtraction</string>
+    <string name = "mul">Multiplication</string>
+    <string name = "div">Division</string>
+    <string name = "cal">Calculate</string>
+    <string name = "sal">Result:</string>
+    <string name = "pis">Enter a number</string>
+</resources>

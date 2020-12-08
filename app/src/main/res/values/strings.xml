@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica002 Calculadora del mundo</string>
+    <string name = "sum">Suma</string>
+    <string name = "res">Resta</string>
+    <string name = "mul">Multiplicacion</string>
+    <string name = "div">Division</string>
+    <string name = "cal">Calcular</string>
+    <string name = "sal">Resultado:</string>
+    <string name = "pis">Digite un numero</string>
+</resources>
